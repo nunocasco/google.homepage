@@ -1,5 +1,7 @@
 My Odins Project - Foundations project: google homepage
 
-struggling on the footer (need a review later)
+somehow the webpage gets a little darker in this preview, misses something, or i'm i just tired?
+
+struggling on the footer right align (need a review later)
 
 misses clean code and organize tree
