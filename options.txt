@@ -1,0 +1,56 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    }
+
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 50px;
+    color:azure;
+    background-color: transparent;
+    object-position: 2cm;
+    border-radius: 2cm;
+    
+    
+}
+
+-->
+
+padding-top: 10px;
+    padding-right: 125px;
+    padding-left: 125px;
+    background-color: transparent;
+    vertical-align: middle;
+    border-color: transparent;
+    box-shadow: none;
+
+
+
+    #search-box:link {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    #search-box:visited {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    #search-box:active {
+        text-decoration: none;
+        color: inherit;
+        border-color: transparent;
+        color:none;
+        outline: none
+    }
+    
+   #search-box:hover {
+        text-decoration: underline;
+        color: none;
+    }
